@@ -5,6 +5,7 @@ end
 fish_add_path ~/.composer/vendor/bin
 fish_add_path ~/.config/toolbox/bin
 fish_add_path ~/.cache/rebar3/bin
+fish_add_path /opt/homebrew/opt/ruby/bin
 
 source ~/.asdf/asdf.fish
 
